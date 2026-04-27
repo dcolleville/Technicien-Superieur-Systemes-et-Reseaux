@@ -8,7 +8,7 @@ Il contient :
 
 Le dossier professionnel ne doit pas faire plus de **3 pages maximum par exemple d’activité type** afin de permettre à votre jury de bien le consulter avant votre soutenance.
 
-Vous trouverez également des informations pour le candidat issu de la formation dans [le document d’aide à la rédaction du DP fourni par l’Etat](Ressources/Aide_candidatFormation_dossier_professionnel). 
+Vous trouverez également des informations pour le candidat issu de la formation dans [le document d’aide à la rédaction du DP fourni par l’Etat](Ressources/Aide_candidatFormation_dossier_professionnel.pdf). 
 
 Pour remplir le dossier, vous devez télécharger le document suivant : [DP_TSSR_Pre-rempli.docx](Ressources/DP_TSSR_Pre-rempli.docx).
 
@@ -64,7 +64,7 @@ Vous y trouverez une description du dossier professionnel :
 
 Au-delà de la vidéo de 3 minutes expliquant rapidement comment remplir la partie professionnelle, il est important de consulter le pas à pas pour s’assurer de remplir correctement le dossier professionnel. Ce dernier sera soumis à un contrôle de vérification de conformité. Un dossier non conforme peut vous empêcher d’accéder à la salle de soutenance.
 
-### Retranscription de la vidéo “[LA PRATIQUE PROFESSIONNELLE EN 3 MINUTES](https://www.dossierprofessionnel.fr/pro/)” :**
+### Retranscription de la vidéo “[LA PRATIQUE PROFESSIONNELLE EN 3 MINUTES](https://www.dossierprofessionnel.fr/pro/)” :
 
 > _La partie « Exemples de Pratique Professionnelle » est le cœur de votre DP. C’est là que vous décrivez des exemples concrets de pratiques acquises en entreprise, en centre de formation ou dans le cadre d’activités bénévoles._
 > 
@@ -80,13 +80,13 @@ Au-delà de la vidéo de 3 minutes expliquant rapidement comment remplir la part
 > 
 > _Pour un titre, il peut y avoir une à plusieurs activités-types. Et pour chaque activité-type, vous allez décrire vos pratiques professionnelles à partir d’exemples que vous avez vécus. Choisissez un à trois exemples par activité-type._
 >
->_Pour chaque exemple, de trois pages au maximum (manuscrites ou en traitement de texte), complétez tout d’abord :_
+>_Pour chaque exemple, de **3 pages au maximum** (manuscrites ou en traitement de texte), complétez tout d’abord :_
 >- _l’intitulé de l’activité-type tel qu’il figure dans le REAC_
 >- _l’intitulé de votre exemple. Numérotez chaque exemple._
 >
 >_Ensuite,  Expliquez comment vous vous organisez, étape par étape pour mener à bien votre travail._
 >
-_Utilisez de préférence le « je » car vous décrivez votre pratique professionnelle.  **Ne recopiez pas les compétences contenues dans le REAC**. S’il y a des contraintes particulières, concernant par exemple la sécurité, l’hygiène, ou l’efficacité qui sont liés à ce travail, n’oubliez pas de les mentionner._
+_Utilisez de préférence le « **je** » car vous décrivez **votre** pratique professionnelle.  **Ne recopiez pas les compétences contenues dans le REAC**. S’il y a des contraintes particulières, concernant par exemple la sécurité, l’hygiène, ou l’efficacité qui sont liés à ce travail, n’oubliez pas de les mentionner._
 >
 >Citez les différents outils, machines, ordinateurs, dont vous avez besoin pour réaliser votre travail, ainsi que les modes d’emploi ou documents techniques utilisés.
 >
